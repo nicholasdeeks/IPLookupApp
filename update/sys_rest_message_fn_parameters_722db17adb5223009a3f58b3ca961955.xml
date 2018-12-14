@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>specific_field</name>
+        <rest_message_function display_value="GetIPInfo">bbd7bdbadb1223009a3f58b3ca96194d</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-14 13:07:35</sys_created_on>
+        <sys_id>722db17adb5223009a3f58b3ca961955</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>specific_field</sys_name>
+        <sys_package display_value="IPLookup" source="x_133544_iplookup">7f377576db5223009a3f58b3ca961980</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">7f377576db5223009a3f58b3ca961980</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_722db17adb5223009a3f58b3ca961955</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-14 13:07:50</sys_updated_on>
+        <type>string</type>
+        <value>geo</value>
+    </sys_rest_message_fn_parameters>
+</record_update>
